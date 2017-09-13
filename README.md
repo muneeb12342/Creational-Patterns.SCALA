@@ -1,5 +1,5 @@
 # Creational-Patterns.SCALA
-##Lazy Initialization
+## Lazy Initialization
 - A special case of lazy evaluation strategy
 - It Initializes value/object on it's first access
 - Lazy values can hold nulls
@@ -13,8 +13,8 @@
 
 ## Factory Method
 - There are two types 
-1 Factory Method
-2 Abstract Factory
+1. Factory Method
+2. Abstract Factory
 
 ### Factory Method
 - It provides the interface for creating an Object
